@@ -8,3 +8,5 @@
 ===== How to Install =====
 
 * Download this plugin from Github and upload in wp-admin > Plugins section of your WordPress site. 
+
+* For any help, contact me at https://wppatch.com
